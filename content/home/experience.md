@@ -26,19 +26,19 @@ experience:
     company: Research Center for Social Computing and Information Retrieval (SCIR)
     company_url: 'http://ir.hit.edu.cn/'
     company_logo: org-gc
-    location: Harbin
+    location: Harbin, China
     date_start: '2020-09-01'
     date_end: ''
     description: SCIR is an energetic team that has conducted brilliant work in various domains of Natural Language Processing. Supervised by Ph.D. candidate Libo Qin and Prof. Wanxiang Che, I begin my research from scratch and really benefit a great deal from this rewarding experience. 
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Undergraduate
+    company: Harbin Institute of Technology
+    company_url: 'http://www.hit.edu.cn/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Harbin, China
+    date_start: '2019-08-16'
+    date_end: ''
+    description: Harbin Institute of Technology, a member of China's elite C9 League, is consistently ranked as one of the top universities in China with a focus on science and engineering. As a student of Honors School, I deeply appreciate the remarkable education I have received.
 
 design:
   columns: '2'
