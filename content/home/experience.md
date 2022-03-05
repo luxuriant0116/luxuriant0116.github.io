@@ -22,19 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Research Intern
+    company: Research Center for Social Computing and Information Retrieval (SCIR)
+    company_url: 'http://ir.hit.edu.cn/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Harbin
+    date_start: '2020-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: SCIR is an energetic team that has conducted brilliant work in various domains of Natural Language Processing. Supervised by Ph.D. candidate Libo Qin and Prof. Wanxiang Che, I begin my research from scratch and really benefit a great deal from this rewarding experience. 
         
   - title: Professor of Semiconductor Physics
     company: University X
