@@ -31,7 +31,7 @@ item:
   organization_url: https://www.coursera.org
   title: National Scholarship
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url:
   date_end: ""
   date_start: "2020-12-01"
   description: ""
