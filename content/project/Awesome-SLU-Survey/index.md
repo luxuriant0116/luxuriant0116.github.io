@@ -1,6 +1,6 @@
 ---
 title: Awesome-SLU-Survey
-summary: A survey for Spoken Language Processing
+summary: A survey on Spoken Language Understanding
 tags:
 - Natural Language Processing
 date: "2021-01-27T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-A survey for Spoken Language Understanding.
+A survey on Spoken Language Understanding, concluding recent advances and new frontiers in this domain.
