@@ -40,8 +40,8 @@ item:
   title: Kwang-Hua Scholarship
   url: ""
 - certificate_url:
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_end: "2021-12-01"
+  date_start: "2019-12-01"
   description: ""
   organization: Harbin Institute of Technology
   organization_url: http://www.hit.edu.cn/
