@@ -39,13 +39,13 @@ item:
   organization_url: 
   title: Kwang-Hua Scholarship
   url: ""
-- certificate_url: https://www.datacamp.com
+- certificate_url:
   date_end: "2020-12-21"
   date_start: "2020-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Harbin Institute of Technology
+  organization_url: http://www.hit.edu.cn/
+  title: People's Scholarship in China, First Prize
   url: ""
 
 design:
