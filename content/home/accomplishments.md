@@ -27,8 +27,8 @@ item:
   date_end: ""
   date_start: "2021-12-01"
   description: ""
-  organization: Ministry of Education, China
-  organization_url: https://www.coursera.org
+  organization: Ministry of Education of the People's Republic of China
+  organization_url: http://www.moe.gov.cn/
   title: National Scholarship
   url: ""
 - certificate_url:
