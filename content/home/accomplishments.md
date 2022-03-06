@@ -45,7 +45,15 @@ item:
   description: ""
   organization: Harbin Institute of Technology
   organization_url: http://www.hit.edu.cn/
-  title: People's Scholarship in China, First Prize
+  title: People's Scholarship, First Prize
+  url: ""
+- certificate_url:
+  date_end: "2021-12-01"
+  date_start: "2020-12-01"
+  description: ""
+  organization: Harbin Institute of Technology
+  organization_url: http://www.hit.edu.cn/
+  title: Excellent Student
   url: ""
 
 design:
