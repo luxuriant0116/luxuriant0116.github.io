@@ -25,6 +25,30 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2023-06-10"
+  description: ""
+  organization: Harbin Institute of Technology
+  organization_url: http://www.hit.edu.cn/
+  title: Best Bachelor Thesis Award
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2023-03-31"
+  description: ""
+  organization: University Grants Committee, Hong Kong
+  organization_url: https://cerg1.ugc.edu.hk/hkpfs/index.html
+  title: Hong Kong PhD Fellowship
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2022-12-01"
+  description: ""
+  organization: Suzhou Industrial Park
+  organization_url: https://www.sipac.gov.cn/
+  title: Suzhou Industrial Park Scholarship
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2021-12-01"
   description: ""
   organization: Ministry of Education of the People's Republic of China
@@ -39,22 +63,7 @@ item:
   organization_url: 
   title: Kwang-Hua Scholarship
   url: ""
-- certificate_url:
-  date_end: "2021-12-01"
-  date_start: "2019-12-01"
-  description: ""
-  organization: Harbin Institute of Technology
-  organization_url: http://www.hit.edu.cn/
-  title: People's Scholarship, First Prize
-  url: ""
-- certificate_url:
-  date_end: "2021-12-01"
-  date_start: "2020-12-01"
-  description: ""
-  organization: Harbin Institute of Technology
-  organization_url: http://www.hit.edu.cn/
-  title: Excellent Student
-  url: ""
+
 
 design:
   columns: '2' 

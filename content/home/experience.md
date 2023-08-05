@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Visiting Intern
+    company: the Hong Kong University of Science and Technology
+    company_url: 'https://join.hkust.edu.hk/admissions/visiting'
+    company_logo: 
+    location: Hong Kong SAR, China
+    date_start: '2023-01-15'
+    date_end: '2023-08-31'
+    description: 
   - title: Research Intern
     company: Research Center for Social Computing and Information Retrieval (SCIR)
     company_url: 'http://ir.hit.edu.cn/'
     company_logo: 
     location: Harbin, China
     date_start: '2020-09-01'
-    date_end: ''
-    description: SCIR is an energetic team that has conducted brilliant work in various domains of Natural Language Processing. Supervised by Ph.D. candidate Libo Qin and Prof. Wanxiang Che, I begin my research from scratch and really benefit a great deal from this rewarding experience. 
-        
-  - title: Undergraduate
-    company: Harbin Institute of Technology
-    company_url: 'http://www.hit.edu.cn/'
-    company_logo: 
-    location: Harbin, China
-    date_start: '2019-08-16'
-    date_end: ''
-    description: Harbin Institute of Technology, a member of China's elite C9 League, is consistently ranked as one of the top universities in China with a focus on science and engineering. As a student of Honors School, I deeply appreciate the remarkable education I have received.
+    date_end: '2022-08-31'
+    description: 
+
 
 design:
   columns: '2'
