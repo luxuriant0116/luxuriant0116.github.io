@@ -10,8 +10,8 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Publication
+    url: '#pubs'
     weight: 30
   - name: Accomplishments
     url: '#accomplishments'
