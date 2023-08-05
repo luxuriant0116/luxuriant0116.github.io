@@ -9,10 +9,10 @@ interests:
   - Multi-Modal Learning
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: fas
     link: mailto:tuzituziwlh@gmail.com
   - icon: github
-    icon_pack: ai
+    icon_pack: fab
     link: https://github.com/luxuriant0116
   - icon: cv
     icon_pack: ai
