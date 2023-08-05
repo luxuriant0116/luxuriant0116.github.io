@@ -1,6 +1,6 @@
 ---
 title: Lehan Wang
-role: Undergraduate
+role: PhD Student
 bio: I am currently a PhD student at the Hong Kong University of Science and
   Technology.
 interests:
