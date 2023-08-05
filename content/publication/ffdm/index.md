@@ -50,7 +50,7 @@ url_code: 'https://github.com/xmed-lab/FDDM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://drive.google.com/file/d/1uPY_M13LFliaKX4bsQSv-my6r0MA9Zdf/view?usp=drive_link'
 url_source: ''
 url_video: ''
 
@@ -73,5 +73,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ffdm
+slides: ""
 ---
