@@ -12,7 +12,8 @@ authors:
 - Xiaomeng Li
 
 # Author notes (optional)
-# author_notes:
+author_notes:
+- "Equal contribution"
 
 date: "2023-06-24T00:00:00Z"
 doi: ""
