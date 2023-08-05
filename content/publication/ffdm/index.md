@@ -13,11 +13,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2023-06-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-06-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +26,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In The 26th International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI 2023
+publication_short: In MICCAI 2023
 
 abstract: Optical Coherence Tomography (OCT) is a novel and effective screening tool for ophthalmic examination. Since collecting OCT images is relatively more expensive than fundus photographs, existing methods use multi-modal learning to complement limited OCT data with additional context from fundus images. However, the multi-modal framework requires eye-paired datasets of both modalities, which is impractical for clinical use. To address this problem, we propose a novel fundus-enhanced disease-aware distillation model (FDDM), for retinal disease classification from OCT images. Our framework enhances the OCT model during training by utilizing unpaired fundus images and does not require the use of fundus images during testing, which greatly improves the practicality and efficiency of our method for clinical use. Specifically, we propose a novel class prototype matching to distill disease-related information from the fundus model to the OCT model and a novel class similarity alignment to enforce consistency between disease distribution of both modalities. Experimental results show that our proposed approach outperforms single-modal, multi-modal, and state-of-the-art distillation methods for retinal disease classification.
 
 # Summary. An optional shortened abstract.
-summary: e propose a novel fundus-enhanced disease-aware distillation model (FDDM), for retinal disease classification from OCT images.
+summary: We propose a novel fundus-enhanced disease-aware distillation model (FDDM), for retinal disease classification from OCT images.
 tags: []
 
 # Display this page in the Featured widget?
@@ -43,8 +43,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2308.00291'
+url_code: 'https://github.com/xmed-lab/FDDM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
