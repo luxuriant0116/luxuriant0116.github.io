@@ -13,7 +13,7 @@ main:
   - name: Publication
     url: '#pubs'
     weight: 30
-  - name: Accomplishments
+  - name: Awards
     url: '#accomplishments'
     weight: 40
 
