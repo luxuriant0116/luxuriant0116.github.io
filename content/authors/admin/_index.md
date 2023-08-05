@@ -22,11 +22,12 @@ organizations:
     url: https://hkust.edu.hk/
 education:
   courses:
+    - course: Ph.D. in Electronic & Computer Engineering
+      institution: the Hong Kong University of Technology, 2027(expected)
     - course: B.Eng. in Artificial Intelligence
       institution: Harbin Institute of Technology
       year: 2023
-    - course: Ph.D. in Electronic & Computer Engineering
-      institution: the Hong Kong University of Technology
+
 email: ""
 superuser: true
 highlight_name: true
