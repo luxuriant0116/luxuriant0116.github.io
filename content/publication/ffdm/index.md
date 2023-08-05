@@ -6,12 +6,14 @@ title: "Fundus-Enhanced Disease-Aware Distillation Model for Retinal Disease Cla
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Weihang Dai
+- Mei Jin
+- Chubin Ou
+- Xiaomeng Li
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+
 
 date: "2023-06-24T00:00:00Z"
 doi: ""
