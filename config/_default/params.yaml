@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: dark
+  theme_day: rose
   theme_night: dark
   font: rose
   font_size: xs
