@@ -35,7 +35,8 @@ abstract: Optical Coherence Tomography (OCT) is a novel and effective screening 
 
 # Summary. An optional shortened abstract.
 summary: We propose a novel fundus-enhanced disease-aware distillation model (FDDM), for retinal disease classification from OCT images.
-tags: []
+tags:
+- featured
 
 # Display this page in the Featured widget?
 featured: true
