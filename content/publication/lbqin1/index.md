@@ -8,7 +8,7 @@ authors:
 - Libo Qin
 - Xiao Xu
 - admin
-- Yup Zhang
+- Yue Zhang
 - Wanxiang Che
 
 # Author notes (optional)
