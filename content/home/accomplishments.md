@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url:
   date_end: ""
-  date_start: "2023-03-31"
+  date_start: "2023-04-07"
   description: ""
   organization: University Grants Committee, Hong Kong
   organization_url: https://cerg1.ugc.edu.hk/hkpfs/index.html
