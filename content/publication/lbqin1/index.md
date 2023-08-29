@@ -35,8 +35,7 @@ abstract: Pre-training for end-to-end task-oriented dialogue systems (EToDs) is 
 
 # Summary. An optional shortened abstract.
 summary: 
-tags: 
-  - other
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
