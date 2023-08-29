@@ -62,12 +62,6 @@ image:
   focal_point: ""
   preview_only: false
 
-<div class="my-24">
-    {{ $buffer := .Page.Resources.GetMatch "featured.jpg" }}
-    {{ $image_resize := $buffer.Resize "200x" }}
-    <img src="{{ $image_resize.RelPermalink }}" alt="">
-</div>
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -82,3 +76,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+<div class="my-24">
+    {{ $buffer := .Page.Resources.GetMatch "featured.jpg" }}
+    {{ $image_resize := $buffer.Resize "200x" }}
+    <img src="{{ $image_resize.RelPermalink }}" alt="">
+</div>
