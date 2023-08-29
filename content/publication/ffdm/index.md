@@ -78,7 +78,5 @@ slides: ""
 ---
 
 <div class="my-24">
-    {{ $buffer := .Page.Resources.GetMatch "featured.jpg" }}
-    {{ $image_resize := $buffer.Resize "200x" }}
-    <img src="{{ $image_resize.RelPermalink }}" alt="">
+    {{ $image := .Resources.Get "featured.jpg".Resize "300x" }}
 </div>
