@@ -78,6 +78,8 @@ slides: ""
 ---
 
 <div class=ml-3>
-    {{ $image := .Resources.Get "featured.jpg".Resize "200x" }}
+    {{ $buffer := .Page.Resources.GetMatch "featured.jpg" }}
+    {{ $image_resize := $buffer.Resize "200x" }}
+    <img src="{{ $image_resize.RelPermalink }}" alt="">
 </div>
 
