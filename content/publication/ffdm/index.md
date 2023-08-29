@@ -77,9 +77,3 @@ projects: []
 slides: ""
 ---
 
-<div class=ml-3>
-    {{ $buffer := .Page.Resources.GetMatch "featured.jpg" }}
-    {{ $image_resize := $buffer.Resize "200x" }}
-    <img src="{{ $image_resize.RelPermalink }}" alt="">
-</div>
-
