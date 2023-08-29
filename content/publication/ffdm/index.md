@@ -77,6 +77,7 @@ projects: []
 slides: ""
 ---
 
-<div class="my-24">
-    {{ $image := .Resources.Get "featured.jpg".Resize "300x" }}
+<div class=ml-3>
+    {{ $image := .Resources.Get "featured.jpg".Resize "200x" }}
 </div>
+
