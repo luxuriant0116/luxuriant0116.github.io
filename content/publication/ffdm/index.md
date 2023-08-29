@@ -38,7 +38,7 @@ summary: We propose a novel fundus-enhanced disease-aware distillation model (FD
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
