@@ -36,7 +36,7 @@ abstract: With the success of the sequence-to-sequence model, end-to-end task-or
 # Summary. An optional shortened abstract.
 summary: 
 tags:
-- other
+  - other
 
 # Display this page in the Featured widget?
 featured: false
