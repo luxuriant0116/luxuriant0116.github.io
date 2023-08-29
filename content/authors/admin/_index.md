@@ -25,7 +25,7 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Electronic & Computer Engineering
-      institution: the Hong Kong University of Technology
+      institution: the Hong Kong University of Science and Technology
       year: 2027(expected)
     - course: B.Eng. in Artificial Intelligence
       institution: Harbin Institute of Technology
