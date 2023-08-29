@@ -44,7 +44,7 @@ item:
   date_start: "2022-12-01"
   description: ""
   organization: Suzhou Industrial Park
-  organization_url: https://www.sipac.gov.cn/
+  organization_url: 
   title: Suzhou Industrial Park Scholarship
   url: ""
 - certificate_url:
@@ -52,7 +52,7 @@ item:
   date_start: "2021-12-01"
   description: ""
   organization: Ministry of Education of the People's Republic of China
-  organization_url: http://www.moe.gov.cn/
+  organization_url: 
   title: National Scholarship
   url: ""
 - certificate_url:
