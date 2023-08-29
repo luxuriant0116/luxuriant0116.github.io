@@ -16,9 +16,9 @@ social:
   - icon: graduation-cap
     icon_pack: fab
     link: https://scholar.google.com/citations?user=qq-o-JoAAAAJ&hl=en
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 organizations:
   - name: the Hong Kong University of Science and Technology
     url: https://hkust.edu.hk/
