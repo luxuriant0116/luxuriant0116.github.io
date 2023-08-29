@@ -61,7 +61,7 @@ image:
   caption: 'Overview Framework of FFDM'
   focal_point: ""
   preview_only: false
-{{ $image := $image.Fit "200x100" }}
+{{ $image := .Resources.Get "featured.jpg".Fit "200x100" }}
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
