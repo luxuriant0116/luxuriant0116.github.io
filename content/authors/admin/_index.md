@@ -9,13 +9,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:tuzituziwlh@gmail.com
+    link: mailto:lwandk@connect.ust.hk
   - icon: github
     icon_pack: fab
     link: https://github.com/luxuriant0116
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  - icon: graduation-cap
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=qq-o-JoAAAAJ&hl=en
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 organizations:
   - name: the Hong Kong University of Science and Technology
     url: https://hkust.edu.hk/
