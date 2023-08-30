@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lehan Wang # Website name
-baseURL: 'https://luxuriant0116.github.io/homepage/' # Website URL
+# baseURL: '' # Website URL
 
 ############################
 ## LANGUAGE
