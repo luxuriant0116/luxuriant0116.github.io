@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visiting Intern
-    company: the Hong Kong University of Science and Technology
+    company: The Hong Kong University of Science and Technology
     company_url: 'https://join.hkust.edu.hk/admissions/visiting'
     company_logo: 
     location: Hong Kong SAR, China
