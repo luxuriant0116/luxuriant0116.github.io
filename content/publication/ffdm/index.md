@@ -51,7 +51,7 @@ url_code: 'https://github.com/xmed-lab/FDDM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://drive.google.com/file/d/1uPY_M13LFliaKX4bsQSv-my6r0MA9Zdf/view?usp=drive_link'
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -60,7 +60,7 @@ url_video: ''
 image:
   caption: 'Overview Framework of FFDM'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
