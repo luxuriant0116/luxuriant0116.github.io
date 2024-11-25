@@ -3,7 +3,7 @@ name = "myrose"
 
 [light]
   # Primary
-  primary = "rgb(228, 177, 240)"
+  primary = "rgb(229,170,186)"
 
   # Menu
   menu_primary = "rgb(247, 247, 247)"
