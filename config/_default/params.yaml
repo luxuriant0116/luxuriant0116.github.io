@@ -8,7 +8,7 @@
 appearance:
   theme_day: rose
   theme_night: dark
-  font: rose
+  font: "my_custom_fonts"
   font_size: S
 
 # SEO

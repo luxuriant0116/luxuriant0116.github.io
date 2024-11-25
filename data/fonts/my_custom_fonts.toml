@@ -7,6 +7,6 @@ google_fonts = "family=Fira+Sans:wght@300;800&family=Merriweather:wght@400;900&f
 
 # Font families
 heading_font = "Merriweather"
-body_font = "Fira Sans"
+body_font = "Roboto"
 nav_font = "Merriweather"
-mono_font = "Fira Sans"
+mono_font = "Cutive Mono"
