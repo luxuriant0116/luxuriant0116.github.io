@@ -34,7 +34,7 @@ publication_short: MICCAI 2023
 abstract: Optical Coherence Tomography (OCT) is a novel and effective screening tool for ophthalmic examination. Since collecting OCT images is relatively more expensive than fundus photographs, existing methods use multi-modal learning to complement limited OCT data with additional context from fundus images. However, the multi-modal framework requires eye-paired datasets of both modalities, which is impractical for clinical use. To address this problem, we propose a novel fundus-enhanced disease-aware distillation model (FDDM), for retinal disease classification from OCT images. Our framework enhances the OCT model during training by utilizing unpaired fundus images and does not require the use of fundus images during testing, which greatly improves the practicality and efficiency of our method for clinical use. Specifically, we propose a novel class prototype matching to distill disease-related information from the fundus model to the OCT model and a novel class similarity alignment to enforce consistency between disease distribution of both modalities. Experimental results show that our proposed approach outperforms single-modal, multi-modal, and state-of-the-art distillation methods for retinal disease classification.
 
 # Summary. An optional shortened abstract.
-summary: We propose a novel fundus-enhanced disease-aware distillation model (FDDM), for retinal disease classification from OCT images.
+summary:
 tags: 
 - featured
 
