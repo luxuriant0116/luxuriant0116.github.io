@@ -49,7 +49,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://arxiv.org/abs/2410.18387'
-url_code: 'https://medrega.github.io/'
+url_code: 'https://github.com/xmed-lab/MedRegA'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://medrega.github.io/'
