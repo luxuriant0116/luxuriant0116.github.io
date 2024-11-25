@@ -15,10 +15,16 @@ hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
+module:
+  imports:
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+
+
 ############################
 ## ADVANCED
 ############################
-
 enableGitInfo: true
 summaryLength: 30
 paginate: 10
