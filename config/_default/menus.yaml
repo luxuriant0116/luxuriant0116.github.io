@@ -4,21 +4,61 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
-    weight: 10
-  - name: Publication
-    url: '#pubs'
-    weight: 20
-  - name: Experience
-    url: '#experience'
-    weight: 30
-  - name: Awards
-    url: '#accomplishments'
-    weight: 40
+  - name: 🏠 Home
+    url: "#about"
+    weight: 1
 
+  # - name: 🗞️ News
+  #   url: "#recent-news"
+  #   weight: 2
+
+  - name: 📝 Publications
+    identifier: publications
+    weight: 2
+  # - name: Journal Article
+  #   parent: publications
+  #   url: "#journal-articles"
+  #   weight: 1
+  # - name: Conference Paper
+  #   parent: publications
+  #   url: "#conference-papers"
+  #   weight: 2
+  # - name: Preprint
+  #   parent: publications
+  #   url: "#preprints"
+  #   weight: 3
+  # - name: Thesis
+  #   parent: publications
+  #   url: "#dissertation"
+  #   weight: 4
+  # - name: Domestic Conference Paper / Presentation
+  #   parent: publications
+  #   url: "#domestic-conferences"
+  #   weight: 5
+
+  # - name: 🎙️ Talks
+  #   url: "#talks"
+  #   weight: 4
+
+  - name: 💻 Experience
+    url: "#experience"
+    weight: 3
+
+  - name: 🏆 Awards & Grants
+    url: "#awards-and-grants"
+    weight: 4
+
+  # - name: 📝 Posts
+  #   url: "#featured-posts"
+  #   weight: 6
+
+
+
+  # - name: 📂 Projects
+  #   url: "#projects"
+  #   weight: 8
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
 #    url: uploads/resume.pdf
-#    weight: 50
+#    weight: 70

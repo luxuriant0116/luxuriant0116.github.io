@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -8,8 +8,15 @@
 appearance:
   theme_day: rose
   theme_night: dark
-  font: rose
-  font_size: xs
+  font: "my_custom_fonts"
+  font_size: S
+
+# appearance:
+#   mode: dark
+#   # theme_day: openai
+#   theme_night: openai
+#   font: "my_custom_fonts"
+#   font_size: S
 
 # SEO
 
@@ -39,6 +46,8 @@ header:
     show_search: true
     highlight_active_link: true
 
+# Site footer
+
 footer:
   copyright:
     notice: ''
@@ -51,8 +60,8 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  date_format: "Jan 2, 2006"
+  time_format: "3:04 PM"
   address_format: en-us
 
 # Site features
