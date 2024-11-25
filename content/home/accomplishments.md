@@ -38,14 +38,14 @@ item:
   organization_url: https://cerg1.ugc.edu.hk/hkpfs/index.html
   title: Hong Kong PhD Fellowship
   url: ""
-- certificate_url:
-  date_end: ""
-  date_start: "2022-12-01"
-  description: ""
-  organization: Suzhou Industrial Park
-  organization_url: 
-  title: Suzhou Industrial Park Scholarship
-  url: ""
+# - certificate_url:
+#  date_end: ""
+#  date_start: "2022-12-01"
+#  description: ""
+#  organization: Suzhou Industrial Park
+#  organization_url: 
+#  title: Suzhou Industrial Park Scholarship
+#  url: ""
 - certificate_url:
   date_end: ""
   date_start: "2021-12-01"
@@ -54,14 +54,14 @@ item:
   organization_url: 
   title: National Scholarship
   url: ""
-- certificate_url:
-  date_end: ""
-  date_start: "2020-12-01"
-  description: ""
-  organization: Kwang-Hua Education Foundation
-  organization_url: 
-  title: Kwang-Hua Scholarship
-  url: ""
+# - certificate_url:
+#  date_end: ""
+#  date_start: "2020-12-01"
+#  description: ""
+#  organization: Kwang-Hua Education Foundation
+#  organization_url: 
+#  title: Kwang-Hua Scholarship
+#  url: ""
 
 
 design:
