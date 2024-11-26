@@ -8,7 +8,8 @@ cms_exclude: true
 #   3 = Card
 #   4 = Citation
 design:
-  view: 2
+  view: 5
+  flip_alt_rows: false
 
 # Optional header image (relative to `static/media/` folder).
 header:
