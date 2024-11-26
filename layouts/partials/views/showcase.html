@@ -23,6 +23,13 @@
 {{ end }}
 
 {{ $order := "" }}
+{{ if isset $widget "Params" }}
+  {{ if and ($widget.Params.design.flip_alt_rows | default true) (not (modBool $index 2)) }}
+    {{ $order = "order-md-2" }}
+  {{ end }}
+{{ else if and ($widget.design.flip_alt_rows | default true) (not (modBool $index 2)) }}
+  {{ $order = "order-md-2" }}
+{{ end }}
 
 
 <div class="col-lg-12 mb-5 view-showcase">
