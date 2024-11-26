@@ -28,8 +28,8 @@ publishDate: "2023-06-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**)*, 2023
-publication_short: MICCAI 2023
+publication: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023"
+publication_short: "MICCAI 2023"
 
 abstract: 
 
