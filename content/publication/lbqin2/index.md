@@ -15,7 +15,7 @@ authors:
 # author_notes:
 
 
-date: "2023-06-24T00:00:00Z"
+date: "2023-02-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +28,10 @@ publishDate: "2023-06-24T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the AAAI Conference on Artificial IntelligenceIntervention, MICCAI 2023
+publication: Proceedings of the AAAI Conference on Artificial IntelligenceIntervention (AAAI), 2023
 publication_short: AAAI 2023
 
-abstract: With the success of the sequence-to-sequence model, end-to-end task-oriented dialogue systems (EToDs) have obtained remarkable progress. However, most existing EToDs are limited to single KB settings where dialogues can be supported by a single KB, which is still far from satisfying the requirements of some complex applications (multi-KBs setting). In this work, we first empirically show that the existing single-KB EToDs fail to work on multi-KB settings that require models to reason across various KBs. To solve this issue, we take the first step to consider the multi-KBs scenario in EToDs and introduce a KB-over-KB Heterogeneous Graph Attention Network (KoK-HAN) to facilitate model to reason over multiple KBs. The core module is a triple-connection graph interaction layer that can model different granularity levels of interaction information across different KBs (ie, intra-KB connection, inter-KB connection and dialogue-KB connection). Experimental results confirm the superiority of our model for multiple KBs reasoning.
+abstract:
 
 # Summary. An optional shortened abstract.
 summary: 

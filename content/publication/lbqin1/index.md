@@ -15,11 +15,11 @@ authors:
 # author_notes:
 
 
-date: "2023-06-24T00:00:00Z"
+date: "2023-2-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-24T00:00:00Z"
+publishDate: "2023-02-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,10 +28,10 @@ publishDate: "2023-06-24T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing
+publication: IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP), 2023
 publication_short: IEEE TASLP 2023
 
-abstract: Pre-training for end-to-end task-oriented dialogue systems (EToDs) is a challenging task due to its unique knowledge base query (accuracy) need and lack of sufficient training data (fluency). In this paper, we try to mitigate the above challenges by introducing a modularized pre-training framework for EToDs, which achieves to effectively improve both accuracy and fluency of EToDs through a pre-training paradigm. The core insight is a modular design by decomposing EToDs into a generation (fluency) module and a knowledge-retriever (accuracy) module, which allows us to optimize each module by pre-training these two sub-modules with different well-designed pre-training tasks, respectively. In addition, such a modularized paradigm enables us to make full use of large amounts of KB-free dialogue corpus for the pre-training generation module, which can alleviate the insufficient training problem. Furthermore, we introduce a new consistency-guided data augmentation (CGDA) strategy to cope with the data scarcity problem to better pre-train the knowledge-retriever module. Finally, we fine-tune the pre-trained generation module and knowledge-retriever module jointly. Experimental results on three datasets show that our model achieve superior performance in terms of both fluency and accuracy. To our knowledge, this is the first work to explore modularized pre-training methods for EToDs.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: 
