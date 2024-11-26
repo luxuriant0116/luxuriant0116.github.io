@@ -41,6 +41,17 @@
         {{- if $do_link}}</a>{{end -}}
       </div>
 
+      <div class="article-metadata">
+        {{ if $item.Params.authors }}
+        <div>
+          {{ partial "page_metadata_authors" $item }}
+        </div>
+        {{ end }}
+        {{ with $item.Params.publication }}
+        <span>{{ . }}</span>
+        {{ end }}
+      </div>
+
       {{ with $summary }}
       <div class="article-style">
         {{ . }}
