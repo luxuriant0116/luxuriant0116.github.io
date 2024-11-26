@@ -30,8 +30,8 @@ publishDate: "2024-10-24T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-publication_short: arXiv
+publication: arXiv Preprint, 2024
+publication_short: arXiv, 2024
 
 abstract: 
 
