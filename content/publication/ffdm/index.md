@@ -47,10 +47,10 @@ links:
   url: https://arxiv.org/abs/2308.00291
 - name: Code
   url: https://github.com/xmed-lab/FDDM
-- name: Project
-  url: https://multi-eye.github.io/
 - name: Dataset
   url: https://hkustconnect-my.sharepoint.com/:u:/g/personal/lwangdk_connect_ust_hk/Eey6EX7oETNBq9Im8XFFfYIBernNJaTOSzS01GO3-ybyew?e=AFsAnx
+- name: Project
+  url: https://multi-eye.github.io/
 
 #url_pdf: 'https://arxiv.org/abs/2308.00291'
 #url_code: 'https://github.com/xmed-lab/FDDM'
