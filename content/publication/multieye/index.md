@@ -50,7 +50,7 @@ featured: false
 
 url_pdf: 'https://arxiv.org/abs/2412.09402'
 url_code: 'https://github.com/xmed-lab/MultiEYE'
-url_dataset: 'https://hkustconnect-my.sharepoint.com/:f:/g/personal/lwangdk_connect_ust_hk/EhanS4CWLDxEuQ6YVNgn85gBtgBsIsPj6uE5JOGpqrsBMA?e=CV7uA1'
+url_dataset: 'https://hkustconnect-my.sharepoint.com/:u:/g/personal/lwangdk_connect_ust_hk/EVM6vA5MHnxJrSocPoDqNEsBSaKhecYRJzSGbxGi70nNpw?e=0OLHyb'
 url_poster: ''
 url_project: 'https://multi-eye.github.io/'
 url_slides: ''
