@@ -17,11 +17,11 @@ authors:
 # author_notes:
 
 
-date: "2024-4-10T00:00:00Z"
+date: "2024-04-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-4-10T00:00:00Z"
+publishDate: "2024-04-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -50,9 +50,9 @@ featured: false
 
 url_pdf: 'https://arxiv.org/abs/2412.09402'
 url_code: 'https://github.com/xmed-lab/MultiEYE'
+url_project: 'https://multi-eye.github.io/'
 url_dataset: 'https://hkustconnect-my.sharepoint.com/:u:/g/personal/lwangdk_connect_ust_hk/EVM6vA5MHnxJrSocPoDqNEsBSaKhecYRJzSGbxGi70nNpw?e=0OLHyb'
 url_poster: ''
-url_project: 'https://multi-eye.github.io/'
 url_slides: ''
 url_source: ''
 url_video: ''
