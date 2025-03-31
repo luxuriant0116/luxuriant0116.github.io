@@ -30,8 +30,8 @@ publishDate: "2024-10-22T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv Preprint, 2024
-publication_short: arXiv, 2024
+publication: "International Conference on Learning Representations, 2025"
+publication_short: "ICLR 2025"
 
 abstract: 
 
