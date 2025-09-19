@@ -1,25 +1,30 @@
 ---
-title: "NEURONS: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction"
+title: "Multi-Modal Explainable Medical AI Assistant for Trustworthy Human-AI Collaboration"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Haonan Wang*
-- Qixiang Zhang*
+- Honglong Yang
+- Shanshan Song
+- Yi Qin
 - admin
-- Xuanqi Huang
+- Haonan Wang
+- Xinpeng Ding
+- Qixiang Zhang
+- Bodong Du
 - Xiaomeng Li
+
 
 # Author notes (optional)
 # author_notes:
 
 
-date: "2025-03-09T00:00:00Z"
+date: "2025-05-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-09T00:00:00Z"
+publishDate: "2025-05-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +33,8 @@ publishDate: "2025-03-09T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Computer Vision (ICCV), 2025"
-publication_short: "ICCV 2025"
+publication: "arXiv Preprint 2025"
+publication_short: "arXiv Preprint 2025"
 
 abstract: 
 
@@ -42,11 +47,13 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+# - name: PDF
+#   url: https://papers.miccai.org/miccai-2025/paper/3405_paper.pdf
+# - name: Code
+#   url: https://github.com/xmed-lab/VAMPIRE
 
-url_pdf: 'https://arxiv.org/abs/2503.11167'
-url_code: 'https://github.com/xmed-lab/NEURONS'
+url_pdf: 'https://arxiv.org/abs/2505.06898'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -58,7 +65,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 1
-  caption: ''
+  caption: 'Overview Framework'
   focal_point: "Center"
   preview_only: false
 

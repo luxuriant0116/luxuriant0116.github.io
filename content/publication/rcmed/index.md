@@ -1,25 +1,34 @@
 ---
-title: "NEURONS: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction"
+title: "Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Haonan Wang*
-- Qixiang Zhang*
+- Jiaji Mao*
 - admin
-- Xuanqi Huang
+- Qixiang Zhang
+- Marawan Elbatel
+- Yi Qin
+- Huijun Hu
+- Baoxun Li
+- Wenhui Deng
+- Weifeng Qin
+- Hongrui Li
+- Jialin Liang
+- Jun Shen
 - Xiaomeng Li
 
 # Author notes (optional)
 # author_notes:
 
 
-date: "2025-03-09T00:00:00Z"
+date: "2025-05-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-09T00:00:00Z"
+publishDate: "2025-05-10T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +37,8 @@ publishDate: "2025-03-09T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Computer Vision (ICCV), 2025"
-publication_short: "ICCV 2025"
+publication: "arXiv Preprint 2025"
+publication_short: "arXiv Preprint 2025"
 
 abstract: 
 
@@ -42,14 +51,17 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+# - name: PDF
+#   url: https://arxiv.org/abs/2505.03380
+# - name: Code
+#   url: https://github.com/xmed-lab/RCMed
 
-url_pdf: 'https://arxiv.org/abs/2503.11167'
-url_code: 'https://github.com/xmed-lab/NEURONS'
+
+url_pdf: 'https://arxiv.org/abs/2505.03380'
+url_code: 'https://github.com/xmed-lab/RCMed'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://xmed-lab.github.io/RCMed/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -58,7 +70,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 1
-  caption: ''
+  caption: 'Overview Framework'
   focal_point: "Center"
   preview_only: false
 
