@@ -5,8 +5,8 @@ title: "NEURONS: Emulating the Human Visual Cortex Improves Fidelity and Interpr
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Haonan Wang*
-- Qixiang Zhang*
+- Haonan Wang
+- Qixiang Zhang
 - admin
 - Xuanqi Huang
 - Xiaomeng Li
