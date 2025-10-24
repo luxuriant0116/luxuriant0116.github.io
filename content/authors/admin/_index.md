@@ -8,7 +8,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:lwandk@connect.ust.hk
+    link: mailto:lwangdk@connect.ust.hk
   - icon: github
     icon_pack: fab
     link: https://github.com/luxuriant0116
