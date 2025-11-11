@@ -50,7 +50,7 @@ featured: false
 
 url_pdf: 'https://arxiv.org/abs/2410.18387'
 url_code: 'https://github.com/xmed-lab/MedRegA'
-url_dataset: ''
+url_dataset: 'https://huggingface.co/datasets/Luxuriant16/MedRegInstruct'
 url_poster: ''
 url_project: 'https://medrega.github.io/'
 url_slides: ''
@@ -79,4 +79,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
 
