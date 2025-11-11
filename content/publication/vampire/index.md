@@ -48,11 +48,11 @@ links:
 - name: Code
   url: https://github.com/xmed-lab/VAMPIRE
 
-#url_pdf: 'https://arxiv.org/abs/2308.00291'
-#url_code: 'https://github.com/xmed-lab/FDDM'
-#url_dataset: 'https://hkustconnect-my.sharepoint.com/:u:/g/personal/lwangdk_connect_ust_hk/Eey6EX7oETNBq9Im8XFFfYIBernNJaTOSzS01GO3-ybyew?e=AFsAnx'
+#url_pdf: 'https://papers.miccai.org/miccai-2025/paper/3405_paper.pdf'
+#url_code: 'https://github.com/xmed-lab/VAMPIRE'
+#url_dataset: ''
 #url_poster: ''
-#url_project: 'https://multi-eye.github.io/'
+#url_project: ''
 #url_slides: ''
 #url_source: ''
 #url_video: ''
@@ -79,4 +79,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
 
